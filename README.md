@@ -7,7 +7,7 @@ Experimental evaluations demonstrate an improvement in classification accuracy f
 Latency analysis confirms rapid model updates (0.003 seconds), supporting real-time clinical deployment. 
 The findings validate the effectiveness of adaptive learning techniques in maintaining robust voice disorder classification performance under evolving input conditions. Future directions include expanding the system to multi-class disorder classification and integrating with telehealth platforms.
 
-                                                  ![image](https://github.com/user-attachments/assets/2f598f16-dda0-4d0c-9f92-72b52f43b305)
+![image](https://github.com/user-attachments/assets/2f598f16-dda0-4d0c-9f92-72b52f43b305)
 
 # Datasets
 This dataset comprises vocal audio recordings from both healthy individuals and patients diagnosed with specific vocal disorders. It serves as a valuable resource for developing machine learning models aimed at detecting and classifying voice-related health conditions.
